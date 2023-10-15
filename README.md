@@ -17,5 +17,12 @@ Make sure you have the following software installed:
 - Streamlit
 - NLTK
 
+# How to found chat data from Whatsapp:
+1- open whatsapp group
+2- tap right-uper corner and goto more option
+3- tap on "Export Chat"
+4- tap on "Without Media"
+5- finally you will get .txt file well done.
+
 
 Demo Link: https://wca-campusx.herokuapp.com/
