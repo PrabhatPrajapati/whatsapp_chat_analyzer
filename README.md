@@ -1,5 +1,6 @@
 # whatsapp-chat-analysis
 This is a Python-based WhatsApp chat analyzer that provides insights and statistics about a WhatsApp chat history. It is hosted on Streamlit, a web application framework for creating interactive data visualizations.
+Demo Link: https://wca-campusx.herokuapp.com/
 
 # Features
 - Chat Import: Upload your WhatsApp chat export file in plain text format (.txt) to analyze the chat history.
@@ -18,11 +19,15 @@ Make sure you have the following software installed:
 - NLTK
 
 # How to found chat data from Whatsapp:
-1- open whatsapp group
-2- tap right-uper corner and goto more option
-3- tap on "Export Chat"
-4- tap on "Without Media"
-5- finally you will get .txt file well done.
+- open whatsapp group
+- tap right-uper corner and goto more option
+- tap on "Export Chat"
+- tap on "Without Media"
+- finally you will get .txt file well done.
+
+# Disclaimer
+Please note that this chat analyzer only works with WhatsApp chat exports in plain text format. The formatting and structure of other chat exports may not be compatible.
+
+Before using this application, ensure that you have the necessary permissions and consent from all participants in the chat to analyze and process the chat history data. Respect privacy and adhere to data protection laws and regulations.
 
 
-Demo Link: https://wca-campusx.herokuapp.com/
